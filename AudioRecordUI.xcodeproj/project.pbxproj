@@ -13,6 +13,7 @@
 		C62A001429405163003DD63A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C62A001329405163003DD63A /* Preview Assets.xcassets */; };
 		C62A001B294072E7003DD63A /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62A001A294072E7003DD63A /* RecordButton.swift */; };
 		C62A001D29408B76003DD63A /* SpectrumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62A001C29408B76003DD63A /* SpectrumView.swift */; };
+		CEA9B4C8295138F8004F8BB8 /* RecordUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA9B4C7295138F8004F8BB8 /* RecordUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		C62A001329405163003DD63A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C62A001A294072E7003DD63A /* RecordButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordButton.swift; sourceTree = "<group>"; };
 		C62A001C29408B76003DD63A /* SpectrumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpectrumView.swift; sourceTree = "<group>"; };
+		CEA9B4C7295138F8004F8BB8 /* RecordUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C62A000C29405160003DD63A /* AudioRecordUIApp.swift */,
 				C62A001A294072E7003DD63A /* RecordButton.swift */,
 				C62A000E29405160003DD63A /* ContentView.swift */,
+				CEA9B4C7295138F8004F8BB8 /* RecordUI.swift */,
 				C62A001C29408B76003DD63A /* SpectrumView.swift */,
 				C62A001029405163003DD63A /* Assets.xcassets */,
 				C62A001229405163003DD63A /* Preview Content */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C62A000F29405160003DD63A /* ContentView.swift in Sources */,
+				CEA9B4C8295138F8004F8BB8 /* RecordUI.swift in Sources */,
 				C62A000D29405160003DD63A /* AudioRecordUIApp.swift in Sources */,
 				C62A001B294072E7003DD63A /* RecordButton.swift in Sources */,
 				C62A001D29408B76003DD63A /* SpectrumView.swift in Sources */,
